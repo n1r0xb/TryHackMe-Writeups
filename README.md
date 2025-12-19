@@ -1,2 +1,2 @@
 # TryHackMe-Writeups
-Writeups of various TryHackMe rooms
+This repository contains writeups for various TryHackMe rooms.
