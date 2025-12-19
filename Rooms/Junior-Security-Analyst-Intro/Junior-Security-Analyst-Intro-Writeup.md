@@ -6,8 +6,8 @@
 ---
 |Terminology|Definition|
 |:---------:|----------|
-|`SOC`      |Security Operations Center (SOC) is a team of IT security professionals tasked with monitoring, preventing, detecting, investigating, and responding to threats within a company's network and systems.|
 |`Phishing` |When emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.|
+|`SOC`      |Security Operations Center (SOC) is a team of IT security professionals tasked with monitoring, preventing, detecting, investigating, and responding to threats within a company's network and systems.|
 
 ---
 As a Junior Security Analyst (also called a SOC Level 1 Analyst) you would typically:
