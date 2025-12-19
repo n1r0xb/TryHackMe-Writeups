@@ -1,5 +1,5 @@
 # TryHackMe-Writeups
-This repository contains writeups for various [TryHackMe](https://tryhackme.com) rooms.
+This repository contains writeups for various [`TryHackMe`](https://tryhackme.com) rooms.
 
 # THM Room Writeups
 |Room Name|Description|Difficulty|Learning Roadmap|
