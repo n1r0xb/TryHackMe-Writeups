@@ -99,12 +99,12 @@ The name of your selected alert will be the answer to the question.*</b>
 
 <b>*Q1: Which flag did you receive after you correctly triaged the first-priority alert?*</b>
 
-``
+`THM{looks_like_lots_of_zoom_meetings}`
 
-<b>*Q2: </b>
+<b>*Q2: Which flag did you receive after you correctly triaged the second-priority alert?*</b>
 
-``
+`THM{how_could_this_user_fall_for_it?}`
 
-<b>*Q3: *</b>
+<b>*Q3: Which flag did you receive after you correctly triaged the third-priority alert?*</b>
 
-``
+`THM{should_we_allow_github_for_devs?}`
