@@ -28,11 +28,17 @@
 
 <b>*Q1: Which senior role typically makes key cyber security decisions?*</b>
 
-`CISO`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>CISO</code>
+</details>
 
 <b>*Q2: What is the common name for roles like SOC analysts and engineers?*</b>
 
-`Blue Team`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Blue Team</code>
+</details>
 
 ---
 ## `Most Common Blue Team Departments`
@@ -58,11 +64,17 @@
 
 <b>*Q1: Does Blue Team focus on defensive or offensive security?*</b>
 
-`Defensive`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Defensive</code>
+</details>
 
 <b>*Q2: Which department handles active or urgent cyber incidents?*</b>
 
-`CIRT`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>CIRT</code>
+</details>
 
 ---
 ## `Advancing SOC Career`
@@ -78,15 +90,24 @@
 
 <b>*Q1: How would you call a cyber security company providing SOC services?*</b>
 
-`MSSP`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>MSSP</code>
+</details>
 
 <b>*Q2: Which role naturally continues your SOC L1 analyst journey?*</b>
 
-`SOC L2 Analyst`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>SOC L2 Analyst</code>
+</details>
 
 ---
 ## `Final Challenge`
 
 <b>*Q1: What flag did you claim after completing the final challenge?*</b>
 
-`THM{trysecureme_is_secured!}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{trysecureme_is_secured!}</code>
+</details>
