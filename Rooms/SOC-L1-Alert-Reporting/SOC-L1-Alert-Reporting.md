@@ -20,11 +20,17 @@
 
 <b>*Q1: What is the process of passing suspicious alerts to an L2 analyst for review?*</b>
 
-`Alert Escalation`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Alert Escalation</code>
+</details>
 
 <b>*Q2: What is the process of formally describing alert details and findings?*</b>
 
-`Alert Reporting`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Alert Reporting</code>
+</details>
 
 ---
 ## `Reporting Guide`
@@ -50,16 +56,25 @@
 
 <b>*Q1: According to the SOC dashboard, which user email leaked the sensitive document?*</b>
 
-`m.boslan@tryhackme.thm`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>m.boslan@tryhackme.thm</code>
+</details>
 
 <b>*Q2: Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?*</b>
 
-`support@microsoft.com`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>support@microsoft.com</code>
+</details>
 
 <b>*Q3: Open the phishing alert, read its details, and try to understand the activity.
 Using the Five Ws template, what flag did you receive after writing a good report?*</b>
 
-`THM{nice_attempt_faking_microsoft_support}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{nice_attempt_faking_microsoft_support}</code>
+</details>
 
 ---
 ## `Escalation Guide`
@@ -74,17 +89,26 @@ Using the Five Ws template, what flag did you receive after writing a good repor
 
 <b>*Q1: Who is your current L2 in the SOC dashboard that you can assign (escalate) the alerts to?*</b>
 
-`E.Fleming`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>E.Fleming</code>
+</details>
 
 <b>*Q2: What flag did you receive after correctly escalating the alert from the previous task to L2?*</b>
 
-`THM{good_job_escalating_your_first_alert}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{good_job_escalating_your_first_alert}</code>
+</details>
 
 <b>*Q3: Now, investigate the second new alert in the queue and provide a detailed alert comment.
 Then, decide if you need to escalate this alert and move on according to the process.
 After you finish your triage, you should receive a flag, which is your answer!*</b>
 
-`THM{looks_like_webshell_via_old_exchange}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{looks_like_webshell_via_old_exchange}</code>
+</details>
 
 ---
 ## `SOC Communicataion`
@@ -114,8 +138,14 @@ After you finish your triage, you should receive a flag, which is your answer!*<
 
 <b>*Q1: Should you first try to contact your manager in case of a critical threat (Yea/Nay)?*</b>
 
-`Nay`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Nay</code>
+</details>
 
 <b>*Q2: Should you immediately contact your L2 if you think you missed the attack (Yea/Nay)?*</b>
 
-`Yea`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Yea</code>
+</details>
