@@ -18,6 +18,8 @@
 
 <img width="1223" height="507" alt="Events-and-Alerts(SL1AT)-THM" src="https://github.com/user-attachments/assets/31cd94a5-c920-4cea-b101-0f5b1ab27d90" />
 
+---
+
 **Alert Management Platforms:**
 
 |**Solution**|**Examples**|**Description**|
@@ -31,16 +33,24 @@
 
 <b>*Q1: What is the number of alerts you see in the SOC dashboard?*</b>
 
-`5`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>5</code>
+</details>
 
 <b>*Q2: What is the name of the most recent alert you see?*</b>
 
-`Double-Extension File Creation`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Double-Extension File Creation</code>
+</details>
 
 ---
 ## `Alert Properties`
 
 <img width="1211" height="373" alt="Alert-Properties(SL1AT)-THM" src="https://github.com/user-attachments/assets/f272125d-72c8-4da0-956d-3166e9c3cf2f" />
+
+---
 
 **Alert Properties:**
 
@@ -59,11 +69,17 @@
 
 <b>*Q1: What was the verdict for the "Unusual VPN Login Location" alert?*</b>
 
-`False Positive`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>False Positive</code>
+</details>
 
 <b>*Q2: What user was mentioned in the "Unusual VPN Login Location" alert?*</b>
 
-`M.Clark`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>M.Clark</code>
+</details>
 
 ---
 ## `Alert Prioritization`
@@ -79,16 +95,25 @@
 
 <b>*Q1: Should you first prioritise medium over low severity alerts? (Yea/Nay)*</b>
 
-`Yea`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Yea</code>
+</details>
 
 <b>*Q2: Should you first take the newest alerts and then the older ones? (Yea/Nay)*</b>
 
-`Nay`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Nay</code>
+</details>
 
 <b>*Q3: Assign yourself to the first-priority alert and change its status to In Progress.
 The name of your selected alert will be the answer to the question.*</b>
 
-`Potential Data Exfiltration`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Potential Data Exfiltration</code>
+</details>
 
 ---
 ## `Alert Triage`
@@ -99,12 +124,21 @@ The name of your selected alert will be the answer to the question.*</b>
 
 <b>*Q1: Which flag did you receive after you correctly triaged the first-priority alert?*</b>
 
-`THM{looks_like_lots_of_zoom_meetings}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{looks_like_lots_of_zoom_meetings}</code>
+</details>
 
 <b>*Q2: Which flag did you receive after you correctly triaged the second-priority alert?*</b>
 
-`THM{how_could_this_user_fall_for_it?}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{how_could_this_user_fall_for_it?}</code>
+</details>
 
 <b>*Q3: Which flag did you receive after you correctly triaged the third-priority alert?*</b>
 
-`THM{should_we_allow_github_for_devs?}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{should_we_allow_github_for_devs?}</code>
+</details>
