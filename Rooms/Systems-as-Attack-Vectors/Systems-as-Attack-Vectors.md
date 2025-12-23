@@ -28,11 +28,17 @@
 
 <b>*Q1: Can cyber attacks happen without victim intervention (Yea/Nay)?*</b>
 
-`Yea`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Yea</code>
+</details>
 
 <b>*Q2: Can a breach of just a single system lead to disastrous consequences (Yea/Nay)?*</b>
 
-`Yea`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Yea</code>
+</details>
 
 ---
 ## `Attacks on Systems`
@@ -46,22 +52,34 @@
 
 <b>*Q1: What is the term for a security flaw that can be exploited to breach a system?*</b>
 
-`Vulnerability`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Vulnerability</code>
+</details>
 
 <b>*Q2: What is the name of the attack when malware comes from a trusted app or library?*</b>
 
-`Supply Chain`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Supply Chain</code>
+</details>
 
 ---
 ## `Vulnerabilities`
 
 <b>*Q1: What is the CVE for the critical SharePoint vulnerability dubbed "ToolShell"?*</b>
 
-`CVE-2025-53770`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>CVE-2025-53770</code>
+</details>
 
 <b>*Q2: How would you respond to a detected vulnerability on your system?*</b>
 
-`Patch`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Patch</code>
+</details>
 
 ---
 ## `Misconfigurations`
@@ -80,11 +98,17 @@
 
 <b>*Q1: Can a system patch or software update fix the misconfigurations (Yea/Nay)?*</b>
 
-`Nay`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Nay</code>
+</details>
 
 <b>*Q2: Which activity involves an authorized cyber attack to detect the misconfigurations?*</b>
 
-`Penetration Testing`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Penetration Testing</code>
+</details>
 
 ---
 ## `Practice`
@@ -100,8 +124,14 @@
 
 <b>*Q1: What flag did you receive after completing the "Systems at Risk" challenge?*</b>
 
-`THM{patch_or_reconfigure?}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{patch_or_reconfigure?}</code>
+</details>
 
 <b>*Q2: What flag did you receive after completing the "Remediation Plan" challenge?*</b>
 
-`THM{best_systems_defender!}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{best_systems_defender!}</code>
+</details>
