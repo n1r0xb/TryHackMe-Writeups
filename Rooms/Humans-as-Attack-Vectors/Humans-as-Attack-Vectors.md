@@ -27,11 +27,17 @@
 
 <b>*Q1: What or who is the weakest link in cyber security?*</b>
 
-`Humans`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Humans</code>
+</details>
 
 <b>*Q2: What do attackers seek when targeting humans in a cyberattack?*</b>
 
-`Access`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Access</code>
+</details>
 
 ---
 ## `Attacks on Humans`
@@ -44,11 +50,17 @@
 
 <b>*Q1: What is the name of an attack tactic that manipulates human psychology?*</b>
 
-`Social Engineering`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Social Engineering</code>
+</details>
 
 <b>*Q2: Which social engineering method is about pretending to be someone else?*</b>
 
-`Impersonation`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Impersonation</code>
+</details>
 
 ---
 ## `Defending Humans`
@@ -66,24 +78,37 @@ Defending against threats involves two key tasks: **Mitigation** and **Detection
 
 <b>*Q1: Which process is aimed at preventing or reducing the chance of an attack?*</b>
 
-`Mitigation`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Mitigation</code>
+</details>
 
 <b>*Q2: Which mitigation measure is about training employees in cyber security?*</b>
 
-`Security Awareness Training`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Security Awareness Training</code>
+</details>
 
 ---
 ## `Practice`
 
 <b>*Q1: What flag did you receive after completing the "Employees at Risk" challenge?*</b>
 
-`THM{anyone_else_at_risk?}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{anyone_else_at_risk?}</code>
+</details>
 
 <b>*Q2: What flag did you receive after completing the "Employees at Risk" challenge?*</b>
 
-`THM{human_protection_expert!}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{human_protection_expert!}</code>
+</details>
 
 ---
+
 **Some sites to consider following:**
 * BleepingComputer: https://www.bleepingcomputer.com
 * Krebs on Security: https://krebsonsecurity.com
