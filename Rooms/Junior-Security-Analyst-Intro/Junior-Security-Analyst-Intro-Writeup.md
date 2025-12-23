@@ -33,19 +33,28 @@ Your Daily Duties:
 
 <b>*Q1: What was the malicious IP address in the alerts?*</b>
 
-`221[.]181[.]185[.]159`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>221[.]181[.]185[.]159</code>
+</details>
 
 <img width="839" height="261" alt="Being-a-Security-Analyst-Q1(JSAI)-THM" src="https://github.com/user-attachments/assets/8b6f92c8-5a26-4c5b-b1ed-ecd7e1fccd7c" />
 
 <b>*Q2: To whom did you escalate the alert with the malicious IP?*</b>
 
-`Will Griffin`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Will Griffin</code>
+</details>
 
 <img width="725" height="502" alt="Being-a-Security-Analyst-Q2(JSAI)-THM" src="https://github.com/user-attachments/assets/48b35d25-5851-45cf-b070-e556a7e2b849" />
 
 <b>*Q3: What message did you get after blocking the IP address on the firewall?*</b>
 
-`THM{until-we-meet-again}`
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>THM{until-we-meet-again}</code>
+</details>
 
 <img width="663" height="196" alt="Being-a-Security-Analyst-Q3(JSAI)-THM" src="https://github.com/user-attachments/assets/e988950b-ca17-424c-b477-49533f3573ff" />
 
