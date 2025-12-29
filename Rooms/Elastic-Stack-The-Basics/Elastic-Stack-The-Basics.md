@@ -119,3 +119,64 @@ The **Discover tab** is where the SOC analysts spend most of their time. This ta
 
 ---
 ## `KQL Overview`
+
+There is a special language that we can use inside this search bar to perform our searches. KQL (**Kibana Query Language**) is a search query language used to search the ingested logs/documents in Elasticsearch.
+
+**Free Text Search** allows users to search for logs based on text only.
+ 
+_KQL also allows users to utilize logical operators in the search query:_ `AND` `OR` `NOT`
+
+**Field-Based Search** we will provide the field name and the value we are looking for in the logs, and uses the syntax `Field: Value`.
+
+---
+
+<b>*Q1: Create a search query to filter the logs where Source_Country is the United States and show logs from User James or Albert. How many records were returned?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>161</code>
+</details>
+
+<b>*Q2: A user Johny Brown was terminated on the 1st of January, 2022. Create a search query to determine how many times a VPN connection was observed after his termination.*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>1</code>
+</details>
+
+---
+## `Creating Visualizations`
+
+The **visualization tab** allows us to visualize the data in different forms such as tables, pie charts, bar charts, etc.
+
+* Create a visualization and click the Save button at the top right corner.
+* Add the title and description to the visualization.
+* Click Save and add to the library when it's done.
+
+---
+
+<b>*Q1: Which user was observed with the greatest number of failed attempts?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>Simon</code>
+</details>
+
+<b>*Q2: How many wrong VPN connection attempts were observed in January?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>274</code>
+</details>
+
+---
+## `Creating Dashboards`
+
+Dashboards provide good visibility into log collection. A user can create multiple dashboards to fulfill a specific need.
+
+**Creating a Custom Dashboard:**
+* Go to the Dashboard tab and click on the Create dashboard.
+* Click on Add from Library.
+* Click on the visualizations and saved searches. It will be added to the dashboard.
+* Once the items are added, adjust them accordingly, as shown below.
+* Don't forget to save the dashboard after completing it.
