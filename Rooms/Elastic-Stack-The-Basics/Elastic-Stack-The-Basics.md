@@ -51,3 +51,71 @@
 ---
 ## `Discover Tab`
 
+The **Discover tab** is where the SOC analysts spend most of their time. This tab shows the ingested logs, the search bar, normalized fields, and more.
+
+---
+
+**Logs:** Each row shows a single log containing information about the event, along with the fields and values found in that log.
+
+**Fields Pane:** The left panel of the interface shows the list of fields parsed from the logs. We can click on any field to add it to the filter or remove it from the search.
+
+**Index Pattern:** Each type of log is stored in a different index pattern. We can select the index pattern from which we need the logs. For example, for VPN logs, we would need to select the index pattern in which VPN logs are stored.
+
+**Search Bar:** It is a place where the user adds search queries and applies filters to narrow down the results. In the next task, we will learn how to perform searches through queries.
+
+**Time Filter:** We can narrow down results based on any specific time duration.
+
+**Time Interval:** This chart shows the event counts over time.
+
+**TOP Bar:** This bar contains various options to save the search, open the saved searches, share or save the search, etc.
+
+**Discover Tab:** This is the main workspace in Kibana for exploring, searching, and analyzing raw data.
+
+**Add Filter:** We can apply filters to specific fields to narrow down results, rather than manually typing entire queries.
+
+---
+
+<b>*Q1: Select the index vpn_connections and filter from 31st December 2021 to 2nd Feb 2022. How many hits are returned?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>2861</code>
+</details>
+
+<b>*Q2: Which IP address has the maximum number of connections?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>238.163.231.224</code>
+</details>
+
+<b>*Q3: Which user is responsible for the overall maximum traffic?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>James</code>
+</details>
+
+<b>*Q4: Apply Filter on UserName Emanda; which SourceIP has max hits?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>107.14.1.247</code>
+</details>
+
+<b>*Q5: On 11th Jan, which IP caused the spike observed in the time chart?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>172.201.60.191</code>
+</details>
+
+<b>*Q6: How many connections were observed from IP 238.163.231.224, excluding the New York state?*</b>
+
+<details>
+  <summary><i>Click to reveal the answer</i></summary>
+  <code>48</code>
+</details>
+
+---
+## `KQL Overview`
