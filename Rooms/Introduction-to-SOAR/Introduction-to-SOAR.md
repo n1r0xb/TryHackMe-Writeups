@@ -91,6 +91,28 @@ Security Orchestration, Automation, and Response (SOAR) is a tool that unifies a
 ---
 ## `Threat Intel Workflow Practical`
 
+`Case Ticket`
+* **Automated Work Flows:** Create Case Ticket, Communicate Case Ticket, Assign Case Ticket, Update Case Ticket
+* **Manual Work Flows:** Delete Case Ticket
+
+`Threat Intel`
+* **Automated Work Flows:** Fetch New Incident Alerts, Failed Fetch Notifications, Set Fetch Intervals
+* **Manual Work Flows:** Discard Old Alerts
+
+`Data Extraction`
+* **Automated Work Flows:** Extract Domains, Extract IPs, Extract URLs
+* **Manual Work Flows:** Analyst Extraction
+
+`Reputation Checks`
+* **Automated Work Flows:** Reputation Results Output
+* **Manual Work Flows:** Analyst Validation, Sandbox Testing
+
+`Course of Action`
+* **Automated Work Flows:** Block Domains, Block URLs, Bock IPs, Update Case Tickets
+* **Manual Work Flows:** Analyst Approve COA
+
+---
+
 <b>*Q1: What is the flag received?*</b>
 
 <details>
